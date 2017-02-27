@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### How to use:
 * Clone the repository
 * $ npm install //install dependencies
-* npm start //init the app
+* npm run dev //init the app equivalent to npm run start
+* npm run start //start ssr app - broken -_-
 <br/>
 
 ## TODO
